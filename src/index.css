@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.nav {
+    display: flex;
+}
+
+.nav li {
+    margin-right: 30px;
+}
+
+button {
+    margin-right: 30px;
+    background-color: green;
+    color: #fff;
+}
